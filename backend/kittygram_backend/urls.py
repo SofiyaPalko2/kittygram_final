@@ -1,7 +1,5 @@
-# Много раз пыталась отсортировать этот файл, isort .
-# Fixing D:\Dev\kittygram_final\backend\kittygram_backend\urls.py
+# Запускаю из главного каталога isort .
 # После того как явручную все поправила,isort cноваправит на предыдущий вариант
-# Как это исправить?)
 from rest_framework import routers
 
 from django.conf import settings
